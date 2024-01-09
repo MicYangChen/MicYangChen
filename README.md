@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Chen</h1>
-<h3 align="center">I love to work with Unity Engine and anything related to programming to become a better developer.</h3>
+<h3 align="center">I am passionate about leveraging the Unity Engine and engaging in various programming endeavors. My enthusiasm stems from the perpetual exploration of novel concepts and continuous learning within the field.
 
 - 🔭 I’m currently working on [Legends of Silvan](https://github.com/MicYangChen/2D-Platformer-RPG-Unity-Project)
 
