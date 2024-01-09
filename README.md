@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/sdsd" target="blank">
+  <a href="https://www.linkedin.com/in/micyangchen/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sdsd" height="30" width="40" /></a>
   <a href="https://serpentsea.itch.io/" target="blank">
     <img align="center" src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" alt="serpentsea" height="30" width="30" /></a>
